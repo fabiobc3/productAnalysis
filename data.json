@@ -1,0 +1,39 @@
+{
+    "navbar" : 
+    {
+        "About" : "About",
+        "UberEats" : "UberEats",
+        "Drizly" : "Drizly",
+        "Postmates" : "Postmates",
+        "GoPuff" : "GoPuff"
+    },
+
+    "about" :
+    {
+        "name" : "Competitive Analysis Project",
+        "info" : "For our competitive analysis, our group decided to look at four different food and beverage delivery companies: Uber Eats, Drizly, Postmates, and GoPuff. For each one, we provided our insight on their user experience, strengths/weaknesses, and uniqueness."
+    },
+    "projects":
+    [
+        {
+            "tag" : "all UberEats",
+            "name" : "UberEats",
+            "info" : "Uber Eats is one of the most popular food delivery apps out there. It provides users with an intuitive interface and a somewhat tailored experience. The app remembers from where a person usually orders and suggests deliveries based on the user’s preferences, allowing for faster re-orders and the opportunity to experiment with different restaurants that they will probably like. UberEats also has a subscription program where, for $10/month, a user gets a $0 dollar delivery fee and a 5% discount on orders above $15. While this might be good for users who order several times per month, it might make those who don’t feel like they are paying higher fees than they should. They might think that the app wants them to get the membership and is therefore charging higher fees to motivate them to do so."
+        },
+        {
+            "tag" : "all Postmates",
+            "name" : "Postmates",
+            "info" : "Postmates is one of the most popular and versatile delivery apps in the market. To use the app, an user needs to sign up or log in. Then, just like other apps, the user needs to put an address, choose between pickup or delivery, add items to cart, and check out. Restaurants and businesses are organized by category, and are searchable based on the cuisines.  Delivery fees can vary based on distance, time, and specific restaurants. Postmates offers a membership program that costs $9.99 per month, or $99.99 per year. The goal of Postmates is to connect customers to any product, anywhere, anytime. It offers an easy and fast pickup system and a delivery for food, drinks, and groceries from restaurants, pharmacies, liquor stores, and even gas stations. It even delivers electronic equipment such as iPad. Postmates is very versatile, but when it comes down to restaurant meals only, it provides fewer restaurants than other delivery apps."
+        },
+        {
+            "tag" : "all Drizly",
+            "name" : "Drizly",
+            "info" : "Drizly is the largest online marketplace for alcohol in North America. It is a delivery service app/website that was founded in 2012 but has found most of its success in the past year, as delivery based products and technology have flourished during the COVID-19 pandemic. It is currently only available in the United States and Canada, working with retailers in around 1,400 cities. Drizly’s goal is to deliver alcohol to consumers through an easy to use interface. Upon installation and first opening the app you are met with a screen that allows you to log in, create an account, or skip this step. Creating an account is easy, as it brings up one page where you fill in some information and click complete and your account is created. Then we see the main page [Right image], which tells you at the top where the order is being delivered to, which is very useful in making sure you have it set to the correct address. Directly below that there is a search function where you can look for all the products offered through the app. There are eight categories that show up right in the middle of the homepage, which can bring you to a list of a specific type of alcohol. The rest of the main page is filled with various groupings of alcohol such as Best Sellers or Women-owned brands as seen to the right. The other main features included in the navigation bar are a search page, explore, favorites, and account. Explore page has more categories and deals, and the favorites page is where the products you have marked as favorites with the little heart will show up. With a very manageable user interface, the process of ordering is very smooth. Upon searching and choosing an alcoholic beverage a page will pop up that lists sizes and quantity as well as price and sellers. Once you have chosen a specific retailer to buy that beverage from, your future search within the same order is refined to what is available at that retailer. This is an extremely useful feature, as buying from different stores requires an extra charge. If one needed to purchase from multiple locations, there is an option to do so, but as mentioned, at a higher rate. Once all of your desired beverages have been added to the cart, you can confirm order  information and send out the order at the press of a button. It is extremely quick and easy, working in a mostly linear fashion, which is always easier to follow. The styling is done well and the overall user experience is at a high level."
+        },
+        {
+            "tag" : "all GoPuff",
+            "name" : "GoPuff",
+            "info" : "GoPuff is the largest digital delivery service in the industry, seeking to expedite the process of purchasing a wide range of products, as reflected in their motto:  'Order in seconds, delivered in minutes.' Operating in over 500 US cities, GoPuff carries all sorts of different products. From food items, to household supplies, and even alcohol now, GoPuff allows for users to get goods delivered to their doorstep for an extremely competitive rate. GoPuff has over 200 fulfillment centers that house all of these products for the drivers to easily locate and deliver to the customer, allowing for them to be incredibly cost and time effective. The current GoPuff interface is incredibly user-friendly. It has a search bar at the top of the home page, and below includes the option to rebuy items from previous orders, and also has recommendations for you based on order history. In addition to this, scrolling down offers the user the opportunity to view products by category, broken down into categories such as grocery, drinks, bath and beauty, home and office, and pets. This is very helpful for the user considering the vast array of products that GoPuff carries, as it allows for them to browse products without searching specifically for them in categories related to their wants and needs. The simplicity of the GoPuff interface is a key reason for the app’s rapid success. In addition to the home page, it has a tab for My Bag which allows for you to view items in your cart, and then track them as they get delivered to you. By not overwhelming the user with irrelevant information and unnecessary features, GoPuff is able to streamline the shopping process for the users of the app and thus have a higher conversion rate for users on the app placing an order. Above all else, the $1.95 flat delivery fee is one of the lowest of any delivery app, and the lack of additional fees make the prices incredibly similar to shopping at a physical store location."
+        }      
+    ]
+} 
